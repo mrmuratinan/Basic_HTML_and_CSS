@@ -16,8 +16,9 @@
   font-size: small;
 }
 p {
-  color: snow;
-  background: black;
+  color: black;
+  
   font-weight: bold;
   text-align: center;
+  text-shadow: 1px 1px gray;
 }
