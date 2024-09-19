@@ -1,15 +1,15 @@
 table {
-  border: 1px solid silver;
+  border: 1px solid gray;
 }
 td:hover{
-  background-color: yellow;
-  color: black;
-}
-tr,th{
-  background-color: black;
-  color: cornsilk;
-}
-tr,td{
   background-color: darkgreen;
   color: white;
+}
+tr,th{
+  background-color: lightblue;
+  color: darkblue;
+}
+tr,td{
+  background-color: lightgreen;
+  color: black;
 }
